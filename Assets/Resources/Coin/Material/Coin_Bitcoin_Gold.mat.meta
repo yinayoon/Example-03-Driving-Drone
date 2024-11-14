@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3a41f1ed2a44634cb8f3930b868498e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258311
+  packageName: Coin Pack
+  packageVersion: 1.0
+  assetPath: Assets/Coin_Pack/Materials/Coin/Coin_Bitcoin/Coin_Bitcoin_Gold.mat
+  uploadId: 676722

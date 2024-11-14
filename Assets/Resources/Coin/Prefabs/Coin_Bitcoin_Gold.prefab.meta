@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a77508450fc6f34468b71305a55a15e3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258311
+  packageName: Coin Pack
+  packageVersion: 1.0
+  assetPath: Assets/Coin_Pack/Prefabs/Coin_Bitcoin_Gold.prefab
+  uploadId: 676722
